@@ -26,7 +26,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/refugio-haras.git
+git clone https://github.com/DevRafa2007/refugio-haras.git
 cd refugio-haras
 ```
 
