@@ -9,6 +9,9 @@ Este diretório contém as imagens utilizadas no site Refúgio Haras.
 3. `refugio-feature.jpg` - Imagem de destaque do Refúgio para o círculo no hero (recomendado: 400x400px)
 4. `accommodation.jpg` - Imagem das acomodações (recomendado: 800x600px)
 5. `serra-da-raiz.jpg` - Imagem da cidade de Serra da Raiz (recomendado: 800x600px)
+6. `bird-silhouette.png` - Silhueta de pássaro para decoração do hero (recomendado: 120x80px com transparência)
+7. `bird-silhouette-2.png` - Segunda silhueta de pássaro para decoração (recomendado: 80x60px com transparência)
+8. `og-image.jpg` - Imagem para compartilhamento em redes sociais (recomendado: 1200x630px)
 
 ## Galeria
 
@@ -24,4 +27,8 @@ A pasta `gallery/` contém as imagens para a galeria do site. Recomenda-se image
 
 ## Como Substituir
 
-Para substituir as imagens de placeholder, basta adicionar suas próprias imagens com os mesmos nomes neste diretório. 
+Para substituir as imagens de placeholder, basta adicionar suas próprias imagens com os mesmos nomes neste diretório.
+
+## Otimização
+
+Todas as imagens devem ser otimizadas para web para garantir melhor performance. Recomenda-se o uso de ferramentas como TinyPNG ou ImageOptim antes de adicioná-las ao projeto. 
